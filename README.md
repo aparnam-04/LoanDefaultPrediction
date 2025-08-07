@@ -1,7 +1,6 @@
 # LoanDefaultPrediction
 Predicting Loan Default Incidence from SocioEconomic Indicators
 
-A Case Study on Bangladesh
 
 
 This project uses RandomForestClassifier to predict which customers are most likely to default on their loans. Preliminary data processing involves cleaning, one-hot encoding, and EDA.
